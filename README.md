@@ -1,2 +1,2 @@
 # JavaScript
-** All About JS **
+### All About JS
